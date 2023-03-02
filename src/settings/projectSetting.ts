@@ -138,7 +138,7 @@ const setting: ProjectConfig = {
     enable: true,
 
     // Route basic switching animation
-    basicTransition: RouterTransitionEnum.FADE_SIDE,
+    basicTransition: RouterTransitionEnum.FADE,
 
     // Whether to open page switching loading
     // Only open when enable=true
